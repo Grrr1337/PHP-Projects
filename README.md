@@ -8,9 +8,7 @@ Welcome to the "PHP Projects" repository! This collection houses a diverse set o
 - [Projects](#projects)
 - [Snippets](#snippets)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -37,4 +35,5 @@ To get started with the PHP projects in this repository, follow these steps:
 1. Clone or fork this repository:
 
    ```bash
-   git clone https://github.com/Grrr1337/php-projects.git
+   git clone https://github.com/Grrr1337/PHP-Projects.git
+   ```
